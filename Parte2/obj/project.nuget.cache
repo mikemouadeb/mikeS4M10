@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BN61+GKpzHMlXcXa/2DcBdbH3PqDS/ZBwmTDVWVsLzEJimp++2BsMepV82O+UZZ6qdwfE6essFkaa38aVR1s1g==",
+  "success": true,
+  "projectFilePath": "/Users/mike/Documents/GitHub/mikeS4M10/Parte2/Parte2.csproj",
+  "expectedPackageFiles": [
+    "/Users/mike/.nuget/packages/system.diagnostics.diagnosticsource/8.0.1/system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
